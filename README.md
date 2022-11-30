@@ -1,4 +1,4 @@
-# 0x00. Shell, basics 
-- DevOps.  
-- Shell.  
-- Bash.
+# System Engineering Devops  
+- Devops  
+- Shell  
+- Bash
