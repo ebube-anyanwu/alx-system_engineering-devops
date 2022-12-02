@@ -1,5 +1,5 @@
 # 0x01. Shell, permissions  
-**DevOps** **Shell** **Bash'**  
+**DevOps** **Shell** **Bash**  
   
 ### Learning objectives:  
 - What do the commands chmod, sudo, su, chown, chgrp do  
